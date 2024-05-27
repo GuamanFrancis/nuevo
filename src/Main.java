@@ -6,6 +6,7 @@ public class Main {
 
         Estudiante[] estudiantes = new Estudiante[3];
 
+        System.out.println("Comprobando que si se actualize  \n");
         for ( int i =0 ; i<3 ; i++){
             System.out.println("El sistema solo permite el ingreso de datos de  3 estudiantes  \n");
 
